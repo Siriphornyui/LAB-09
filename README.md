@@ -51,6 +51,8 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
  
  * ทดลอง Build และ Run โปรแกรม
  * บันทึกผลที่ได้
+ 
+<img src="http://www.mx7.com/view2/zttberic32FUNTza">
 
 ###2.5.	การทดลองย่อย 2  การใช้สี
 ####2.5.1.	การใช้สีโดยการผสมค่าสี
@@ -60,32 +62,44 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-4.png">
 </p> 
  
+ <img src="http://www.mx7.com/view2/zttbrUu6OSmA1x16">
+ 
 ####2.5.2.	โดยการใช้ methode FromName 
 * เพิ่ม Code ต่อไปนี้ลงในฟังก์ชัน private void Form1_Paint(object sender, PaintEventArgs e) แล้วทดลอง Run โปรแกรม
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-5.png">
 </p> 
 
+<img src="http://www.mx7.com/view2/zttbyE54daEEpe3O">
+
 ####2.5.3. การทดลองย่อย 3  -- การใช้ปากกา
 * การทดลองเปลี่ยนขนาดและสีของปากกา โดยใช้ properties Width และ Color
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-6.png">
 </p> 
+
+<img src="http://www.mx7.com/view2/zttbF1HljDhc3iMw">
+
 * เปลี่ยนชนิดของปากกาเป็นเส้นประ
 <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-7.png">
 </p> 
+
+<img src="http://www.mx7.com/view2/zttbLLiiHnCk0Ku1">
 
 * ใช้ Pen ร่วมกับ Brush  
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-8.png">
 </p> 
 
+<img src="http://www.mx7.com/view2/zttbR4YwXcTJnsPP">
+
 * ใช้ Pen ร่วมกับ HatchBrush  เพื่อสร้างลายเส้นแบบต่างๆ
  <p align="center">
 <img src="https://github.com/Desktop-Programming-Lab-2559/LAB-09/blob/master/imgs/lab9-9.png">
 </p> 
  
+<img src="http://www.mx7.com/view2/zttbWoELcSZlyVwg">
 
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
